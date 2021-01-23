@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="planteye-common",
-    version="0.0.1",
+    version="1.0.1",
     author="Valentin Khaydarov",
     author_email="valentin.khaydarov@gmail.com",
     description="Common function for planyeye",
