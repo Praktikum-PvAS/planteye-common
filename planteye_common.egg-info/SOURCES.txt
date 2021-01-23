@@ -1,6 +1,0 @@
-README.md
-setup.py
-planteye_common.egg-info/PKG-INFO
-planteye_common.egg-info/SOURCES.txt
-planteye_common.egg-info/dependency_links.txt
-planteye_common.egg-info/top_level.txt
